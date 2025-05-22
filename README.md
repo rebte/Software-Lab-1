@@ -6,4 +6,4 @@
 ## Запуск
 ### Інтерактивний режим
 ```bash
-python equation.py
+python main.py
